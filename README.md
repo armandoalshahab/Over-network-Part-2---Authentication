@@ -39,12 +39,12 @@ This type is used to represent a user. In this quest, the important attributes a
 
 ```typescript
 export type User = {
-  username: string; // the user's username
-  name: string; // the user's name
-  imgSrc?: string;
-  followers: number;
-  following: number;
-  privateKey: string; // the user's private key belonging to their on-chain account. Use to execute transactions on the Over Network system
+  username: armandoalshahab; // the user's username
+  name: armandomarais; // the user's name
+  imgSrc?: [string](https://imgur.com/a/N82K7W6);
+  followers: 1056;
+  following: 380;
+  privateKey: iDT3R9AxjmqpyZoZXokgCKNxouHigBJaJ9gxVjjgYVigUrYicN9PiTZWrmmNjHv1wsz1aHDHvfzchpBjhdY3kzj; // the user's private key belonging to their on-chain account. Use to execute transactions on the Over Network system
 };
 ```
 
